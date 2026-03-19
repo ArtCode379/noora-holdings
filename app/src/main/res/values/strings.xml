@@ -74,6 +74,8 @@
     <string name="checkout_dialog_processing_message">Please visit our store within 24 hours to collect your items.</string>
 
     <!-- settings screen -->
+    <string name="settings_about_label">About</string>
+    <string name="settings_visit_support_label">Visit Support</string>
     <string name="settings_screen_company_label">Company</string>
     <string name="settings_screen_version_label">App Version</string>
     <string name="settings_screen_customer_support_label">Customer Support</string>
