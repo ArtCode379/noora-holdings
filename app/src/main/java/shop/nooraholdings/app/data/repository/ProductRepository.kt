@@ -62,7 +62,7 @@ class ProductRepository {
             description = "7-piece Damascus steel chef knife collection with hand-forged 67-layer blades and ergonomic walnut handles. The ultimate toolkit for serious home cooks. Includes chef's knife, bread knife, santoku, paring knife, and oak block.",
             category = ProductCategory.KITCHEN_APPLIANCES,
             price = 249.99,
-            imageRes = R.drawable.product_knife_set,
+            imageRes = R.drawable.product_induction_cooktop,
         ),
         Product(
             id = 8,
@@ -94,7 +94,7 @@ class ProductRepository {
             description = "Arc floor lamp with a brushed brass finish and dimmable 3000K warm-white bulb. Creates a cosy reading nook or accentuates any corner of your living room. 210cm height with a weighted marble base for stability.",
             category = ProductCategory.LIVING_ROOM,
             price = 219.99,
-            imageRes = R.drawable.product_floor_lamp,
+            imageRes = R.drawable.product_table_lamp,
         ),
         Product(
             id = 12,
